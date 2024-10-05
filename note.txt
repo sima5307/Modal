@@ -1,0 +1,6 @@
+Extra Small- 100%
+Small- 540
+medium- 720
+Large- 960
+Extra large-1140
+Extra extra large- 1320
